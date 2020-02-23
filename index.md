@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 个人简历
+## 姓名：马仁龙                             
+## 考研初试总分：331（排名：？？）
+### 本科专业：机械电子工程       
+### 籍贯：山东济南
 
-You can use the [editor on GitHub](https://github.com/minipotato006/minipotato006.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 学术研究
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2017.12  获得“一种用于水下感知与取样机器人“ 实用新型专利证书  专利号：ZL 2017 2 1846091.6                                                                                                                                           
+2017.12 参与项目《智能变换减速带》顺利结题，项目编号：20170222                                                                                                                                                                                                   
+2018.7-2020.6 参与省级项目“水下机器人集成电机推进器关键技术研究”项目 项目编号J18KA038                                                                                                                                             
+2018.2 发表论文“Control System Design of Remotely Operated Vehicle”被EI收录                                                                                                                                                                       
+2018.12 参与本科生助研津贴项目挂车电子制动系统（TEBS）                                                                                                                                                                                                                     
+2018.5 参与软件项目“ROV水下机器人控制器软件系统1.0”获得中华人民共和国计算机软件著作登记证书                                                                                                                               
 
-```markdown
-Syntax highlighted code block
+## 参赛获奖情况
+
+2018年10月参加全国三维数字创新大赛“龙鼎奖”，获得国家级二等奖                                                                                                                                                                                                   
+2018年6月作为山东交通学院代表队参加第十七届全国大学生机器人大赛ROBOCON赛                                                                                                                                                                       
+2018年10月参加第十届山东大学生科技节——“第三届山东省大学生创客大赛”省级获一等奖                                                                                                                                                      
+2018年10月第十届山东大学生科技节——“山东省大学生智能制造大赛”获省级一等奖                                                       
+2019年6月第十一届山东大学生科技节——“第三届山东省大学生智能控制大赛”获省级一等奖                                                                                                                                                     
+2018年5月参加“第八届全国大学生机械创新设计大赛山东赛区预选赛”获省级二等奖                                                                                                                                                                     
+2017年5月参加第十五届“挑战杯”海尔山东省大学生课外学术科技作品竞赛 获省级三等奖                                                                                                                                                             
+
+## 技能证书
+
+2017年获得“C语言程序设计”计算机二级证书                                                                                                                                                                                                                                               
+2017年获得“C++语言程序设计”计算机二级证书                                                                                                                                                                                                                                         
+2018年获得“嵌入式系统开发技术”计算机三级证书                                                                                                                                                                                                                                   
+2019年获得英语四级证书                                                                                                                                                                                                                                                                                         
+
+## 自我评价
+
+我是一个阳光、勤奋、好学、肯吃苦的青年，爱打篮球，抗压能力和执行力强，特别爱好编程，想法独特有创新力。有充足的信心和决心完成老师交代的任务，希望自己能够在导师的指导下在科学道路上越走越远。
+
+
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minipotato006/minipotato006.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
